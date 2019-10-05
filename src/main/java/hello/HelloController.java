@@ -11,5 +11,6 @@ public class HelloController {
     "<p>This web app is powered by \n" +
     "<a href='https://github.com/benjaminlee0/spring-boot-minimal-webapp'>this github repo</a></p>\n";
     return html;
+    //return "Greetings from Spring Boot!";
     }
 }
